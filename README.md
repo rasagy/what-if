@@ -17,6 +17,16 @@ Saved as:
 
 Current data dump (updated daily) on [what-if-had.txt](https://github.com/rasagy/what-if/blob/master/what-if-had.txt)
 
+##Example data
+
+Here are some (hand-picked) tweets from the first 12 hours:
+
+* What if you had to do all that I do, unnoticed, and all alone? Would you still have the same attitude?
+* What if I had it. Would I be the best?
+* What if I had those answers you needed!
+* What if she had no one to talk to or seek attention from? What would she do?
+* What if I had one more night for goodbye
+
 ##ToDo
 
 * Keep a check on SPAM. Keep updating query with possible keywords that you want to filter
