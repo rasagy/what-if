@@ -327,4 +327,15 @@ What if I had a twin?", "created_at": "November 11, 2014 at 10:43AM", "user": "T
 {"tweet": "What if you had to tweet everything you did during the day while you were doing it😳", "created_at": "November 11, 2014 at 11:04AM", "user": "Princxssalex", "user_dp": "http://ift.tt/1zIy7zK", "link": "http://ift.tt/1EnETZK"}, 
 {"tweet": "What If i had inflatable animals for a gig, specially endangered or extinct species? @AStateofChez", "created_at": "November 11, 2014 at 11:09AM", "user": "charlottesdj", "user_dp": "http://ift.tt/1EnEWVo", "link": "http://ift.tt/1zIy7zM"}, 
 {"tweet": ""What if I had red hair with my green eyes?? I'd be a Christmas monster" @j_konn", "created_at": "November 11, 2014 at 11:18AM", "user": "a_kaaay", "user_dp": "http://ift.tt/1EnEWVw", "link": "http://ift.tt/1zIy7zQ"}, 
-{"tweet": "What if I, had a thing on a side, made you cry, would the rules change up or would they still apply?!", "created_at": "November 11, 2014 at 11:20AM", "user": "JustJazmine___", "user_dp": "http://ift.tt/1xtmF95", "link": "http://ift.tt/1xFTpKj"},
+{"tweet": "What if I, had a thing on a side, made you cry, would the rules change up or would they still apply?!", "created_at": "November 11, 2014 at 11:20AM", "user": "JustJazmine___", "user_dp": "http://ift.tt/1xtmF95", "link": "http://ift.tt/1xFTpKj"}, 
+{"tweet": "What if the roles were switched? What if you had to do all that I do, unnoticed, and all alone? Would you still have the same attitude?", "created_at": "November 11, 2014 at 11:24AM", "user": "nettiegarrett", "user_dp": "http://ift.tt/1xFXWMJ", "link": "http://ift.tt/1xFXWML"}, 
+{"tweet": "@ArcadianMaggie You know what? If I had had my banana, maybe my day wouldn't have been so bad.  Lesson learned: Must have a daily banana.", "created_at": "November 11, 2014 at 11:27AM", "user": "allthingsHHH", "user_dp": "http://ift.tt/1uhvMsc", "link": "http://ift.tt/1xFXX3g"}, 
+{"tweet": "@samanthacartel ...really...???..what if you had it and let it slip away...???", "created_at": "November 11, 2014 at 11:29AM", "user": "IvanovicAlex", "user_dp": "http://ift.tt/1itHTL7", "link": "http://ift.tt/1xFXZs3"}, 
+{"tweet": "What if you had to replace you S with D in everything.
+
+Dometimes I dee the deashells by the deashores
+
+Misspelled a word and yeah - SMOOTH", "created_at": "November 11, 2014 at 11:41AM", "user": "dotMAF", "user_dp": "http://ift.tt/1uhvMsu", "link": "http://ift.tt/1uhvMII"}, 
+{"tweet": "@AlysaSuniga haha what if you had to spend the night there that would of been so awesome😳", "created_at": "November 11, 2014 at 11:45AM", "user": "chelsea_mora", "user_dp": "http://ift.tt/1xom6fx", "link": "http://ift.tt/1GKxAiM"}, 
+{"tweet": "what if I had a thing on the side. Would the rules change up, or would they still apply?", "created_at": "November 11, 2014 at 11:47AM", "user": "BondedByLoyalty", "user_dp": "http://ift.tt/1xom6fN", "link": "http://ift.tt/1GKxzvb"}, 
+{"tweet": "What if I had a Gun to your head would you do what I ... — wtf, no i would tell you to kill me bc you would anyw... http://t.co/k8N96gJeHY", "created_at": "November 11, 2014 at 11:50AM", "user": "kushh4breakfast", "user_dp": "http://ift.tt/1xom9bi", "link": "http://ift.tt/1GKxzvs"},

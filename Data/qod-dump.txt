@@ -1,0 +1,29 @@
+{“statuses”: [
+ 
+{"tweet": "“A quote a day, keeps boredom away!”
+— Silly dummy quote #QOD #TestTweet", "created_at": "November 10, 2014 at 06:22PM", "link": "http://ift.tt/1qA4Fnp"}, 
+{"tweet": "“When you feel humiliated or things like that, you either use it as fuel to change or you get covered by it.”
+― Diane Von Furstenberg #QOD", "created_at": "November 11, 2014 at 10:20AM", "link": "http://ift.tt/1u46GNJ"}, 
+{"tweet": "“… And you ask 'What if I fall?'
+Oh but my darling, what if you fly?”
+― Erin Hanson #QOD #What-if", "created_at": "November 12, 2014 at 11:44AM", "link": "http://ift.tt/1wjmRDQ"}, 
+{"tweet": "“Today the almond trees 
+In the orchard fail to cheer me. 
+They are your memory.”
+― Jorge Luis Borges #QOD", "created_at": "November 13, 2014 at 10:30AM", "link": "http://ift.tt/1v6r4zk"}, 
+{"tweet": "“It's never too late to have a happy childhood.” 
+― Tom Robbins #QOD #HappyChildren'sDay", "created_at": "November 14, 2014 at 11:05AM", "link": "http://ift.tt/1ww9vUR"}, 
+{"tweet": "“Love is the one thing that transcends time and space.”
+― Dr. Brand (Interstellar) #QOD", "created_at": "November 15, 2014 at 02:46PM", "link": "http://ift.tt/1wCUm42"}, 
+{"tweet": "“Every day people straighten up the hair, why not the heart?” 
+― Ernesto Guevara #QOD", "created_at": "November 16, 2014 at 05:44PM", "link": "http://ift.tt/1BCcQK8"}, 
+{"tweet": "“Beauty has less to do with appearance than with who we are.”
+― Luchie (French Fries &amp; Waffles) #QOD", "created_at": "November 17, 2014 at 12:34PM", "link": "http://ift.tt/1ukf4rb"}, 
+{"tweet": "“Bureaucracy is the death of all sound work.”
+― Albert Einstein #QOD #SarkariTales", "created_at": "November 18, 2014 at 11:44AM", "link": "http://ift.tt/1uBXnVF"}, 
+{"tweet": "“Bureaucracy expands to meet the needs of the expanding bureaucracy.”
+― Oscar Wilde #QOD #SarkariTales", "created_at": "November 19, 2014 at 03:03PM", "link": "http://ift.tt/1uHOb1Y"}, 
+{"tweet": "“I think we consider too much the luck of the early bird &amp; not enough the bad luck of the early worm.”
+― Franklin D. Roosevelt #QOD", "created_at": "November 20, 2014 at 08:22PM", "link": "http://ift.tt/11jK14r"}, 
+{"tweet": "“Sometimes you just have to jump and grow your wings on the way down.” 
+― Les Brown #QOD", "created_at": "November 21, 2014 at 07:46PM", "link": "http://ift.tt/1v2oFV8"},
