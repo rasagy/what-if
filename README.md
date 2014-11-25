@@ -32,6 +32,6 @@ Here are some (hand-picked) tweets from the first 12 hours:
 
 ##ToDo
 
-* Keep a check on SPAM. Keep updating query with possible keywords that you want to filter
-* Take a shot at one piece of json and see how it imports in Excel
-* Think about design & random elements
+[x] Keep a check on SPAM. Keep updating query with possible keywords that you want to filter
+[ ] Take a shot at one piece of json and see how it imports in Excel
+[ ] Think about design & random elements
