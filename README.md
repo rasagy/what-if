@@ -1,7 +1,11 @@
 What If?
 =======
 
-I always wanted to collect statements around "What if I had done blah blah", thinking of the possible timelines that we avoided (or wished were true). So I decided to search through twitter for tweets with a phrase above, and maybe compile it into a book of regrets. But *without using code*.
+**Project live here:** http://rasagy.in/what-if/
+
+##Motivation
+
+I always wanted to collect statements around "What if I had done blah blah", thinking of the possible timelines that we avoided (or wished were true). So I decided to search through twitter for tweets with a phrase above, and maybe compile it into a book of regrets for NaNoGenMo 2014. But **without using code**.
 
 ##Wait, what is this NaNoGenMo?
 
@@ -32,6 +36,7 @@ Here are some (hand-picked) tweets from the first 12 hours:
 
 ##ToDo
 
-[x] Keep a check on SPAM. Keep updating query with possible keywords that you want to filter
-[ ] Take a shot at one piece of json and see how it imports in Excel
-[ ] Think about design & random elements
+- [x] Keep a check on SPAM. Keep updating query with possible keywords that you want to filter
+- [x] Take a shot at one piece of json and see how it imports in Excel
+- [x] Think about design & random elements
+- [ ] Write follow up blog post on the process
